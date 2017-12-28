@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Teeui\Teeui\Teeui\obj\Debug\netcoreapp1.1\Teeui.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\Teeui\Teeui\Teeui\bin\Debug\netcoreapp1.1\Teeui.deps.json
+C:\Users\admin\source\repos\Teeui\Teeui\Teeui\bin\Debug\netcoreapp1.1\Teeui.runtimeconfig.json
+C:\Users\admin\source\repos\Teeui\Teeui\Teeui\bin\Debug\netcoreapp1.1\Teeui.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Teeui\Teeui\Teeui\bin\Debug\netcoreapp1.1\Teeui.dll
+C:\Users\admin\source\repos\Teeui\Teeui\Teeui\bin\Debug\netcoreapp1.1\Teeui.pdb
+C:\Users\admin\source\repos\Teeui\Teeui\Teeui\obj\Debug\netcoreapp1.1\Teeui.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Teeui\Teeui\Teeui\obj\Debug\netcoreapp1.1\Teeui.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Teeui\Teeui\Teeui\obj\Debug\netcoreapp1.1\Teeui.AssemblyInfo.cs
+C:\Users\admin\source\repos\Teeui\Teeui\Teeui\obj\Debug\netcoreapp1.1\Teeui.dll
+C:\Users\admin\source\repos\Teeui\Teeui\Teeui\obj\Debug\netcoreapp1.1\Teeui.pdb
